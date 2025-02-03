@@ -1,0 +1,168 @@
+{
+  "personalInfo": {
+    "name": "Thanzir Hussain",
+    "title": "Senior Full Stack Engineer",
+    "email": "thanzirhussain9@gmail.com",
+    "location": "East Elmhurst, NY",
+    "github": "https://github.com/legenddev-star",
+    "summary": "Senior Full Stack Engineer specializing in web development with modern full stack technologies. Experienced in developing efficient web applications and optimizing enterprise software. Combining technical expertise with a passion for AI to create innovative solutions.",
+    "image": "https://avatars.githubusercontent.com/u/40724828?v=4"
+  },
+  "experience": [
+    {
+      "company": "OPEN EDX",
+      "position": "Senior Software Engineer(Full-Time)",
+      "startDate": "Aug 2022",
+      "endDate": "Dec 2024",
+      "description": "At Open edX, I led the modernization of the e-learning platform, improving performance, scalability, and user experience. I rebuilt the course player using React and Next.js, optimized performance with ISR and SSR, and refactored backend services with FastAPI and Node.js. I also developed a drag-and-drop course editor, integrated real-time analytics with Kafka, and optimized video streaming via AWS CloudFront and HLS. Additionally, I automated CI/CD with GitHub Actions and Docker and enhanced system observability with Datadog and Prometheus, all while mentoring developers and driving best practices in an agile environment.",
+      "companyUrl": "https://openedx.org",
+      "location": "Remote - Massachusetts"
+    },
+    {
+      "company": "SPECTRAL AI",
+      "position": "Senior Software Engineer(Full-Time)",
+      "startDate": "Nov 2019",
+      "endDate": "Aug 2022",
+      "description": "At SpectralNet, I built scalable web applications for biomedical research, helping scientists analyze complex datasets efficiently. I designed a modular React-based front end, developed FastAPI/Flask backend services, and integrated Neo4j to model biological relationships for drug discovery. I also optimized query performance for vast datasets, integrated machine learning models, and built interactive data visualization dashboards. To ensure scalability, I deployed cloud infrastructure (AWS/GCP/Azure) and automated CI/CD pipelines. Throughout, I worked closely with researchers, led technical discussions, and ensured compliance with HIPAA and GDPR for secure biomedical data handling.",
+      "companyUrl": "https://spectral-ai.com",
+      "location": "Remote - Texas"
+    },
+    {
+      "company": "FLEXPORT",
+      "position": "Software Engineer(Full-Time)",
+      "startDate": "Jan 2017",
+      "endDate": "Oct 2019",
+      "description": "At Flexport, I built React-based fulfillment tracking tools, improving shipment visibility and operational efficiency for international e-commerce clients. I led the migration from monolith to microservices, using Node.js, Python (Flask/FastAPI), and Kafka, which improved scalability and reduced downtime. I optimized PostgreSQL performance, developed AWS Lambda-based event-driven workflows, and integrated Amazon and Shopify APIs to automate order fulfillment. Additionally, I improved backend performance with Redis caching, streamlined CI/CD with Jenkins, Docker, and Kubernetes, and collaborated with data scientists to integrate predictive analytics for shipping delays and demand forecasting.",
+      "companyUrl": "https://flexport.com",
+      "location": "Onsite - New York"
+    },
+    {
+      "company": "FLEXPORT",
+      "position": "Software Engineer Intern",
+      "startDate": "Jun 2016",
+      "endDate": "Dec 2016",
+      "description": "At Flexport, I worked on E-commerce Fulfillment, building React-based tracking tools and dashboards that provided real-time analytics for order processing and shipment tracking. I played a key role in migrating from a monolith to microservices with Node.js, Python (Flask/FastAPI), and Kafka, improving scalability and reducing downtime. I optimized PostgreSQL queries for inventory tracking, developed RESTful APIs, and implemented AWS Lambda-based event-driven workflows to automate shipment updates. Additionally, I built Amazon and Shopify API integrations, improved backend performance with Redis caching, streamlined CI/CD with Docker and Kubernetes, and collaborated with data scientists on predictive analytics for shipping delays and demand forecasting.",
+      "location": "Onsite - New York"
+    }
+  ],
+  "education": [
+    {
+      "institution": "New York University",
+      "degree": "Bachelor in Computer Science in Computer Science",
+      "startDate": "Sep 2012",
+      "endDate": "May 2016",
+      "description": "Comprehensive training in IT skills, including programming, web development, database management, and networks.",
+      "institutionUrl": "https://www.nyu.edu/"
+    }
+  ],
+  "skills": [
+    "React",
+    "Next.js",
+    "Vue",
+    "Angular",
+    "Nest.js",
+    "Svelte",
+    "Storybook",
+    "WordPress",
+    "Drupal",
+    "Shopify",
+    "FastAPI",
+    "GraphQL",
+    "Java Spring",
+    "Java Spring Boot",
+    "WebSocket",
+    "Javascript",
+    "TypeScript",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "C++",
+    "PHP",
+    "Node.js",
+    "Express.js",
+    "C#",
+    "ASP.NET",
+    "Elixir",
+    "Ruby on Rails",
+    "Flask",
+    "Django",
+    "Golang",
+    "Rust",
+    "Laravel",
+    "Python",
+    "MySQL",
+    "MongoDB",
+    "PostgreSQL",
+    "Microsoft SQL Server",
+    "Firebase",
+    "ELK",
+    "Heroku",
+    "Git",
+    "Docker",
+    "Jest",
+    "CI/CD",
+    "VS Code",
+    "AWS",
+    "GCP",
+    "Azure",
+    "Apache",
+    "Redis",
+    "NLP",
+    "PyTorch",
+    "TensorFlow",
+    "CNN&YOLO",
+    "MLflow",
+    "NumPy",
+    "Selenium",
+    "LLM",
+    "OpenAI",
+    "Langchain",
+    "LLM Prompt Engineering",
+    "HubSpot"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Smart Portfolio",
+      "description": "Portfolio website with AI chatbot. Next.js, React.js, AI integration. Dynamic chatbot for answering questions. Modern web design for optimal UX.",
+      "technologies": [
+        "Next.js",
+        "React",
+        "AI",
+        "OpenAI",
+        "Langchain",
+        "Tailwind CSS"
+      ],
+      "link": "https://medevs.xyz"
+    },
+    {
+      "name": "Blog Genius",
+      "description": "AI-powered tool for creating blog articles. React, Next.js, OpenAI integration. Generation of outlines and content. Intuitive user interface.",
+      "technologies": ["React", "Next.js", "AI", "OpenAI", "Node.js"],
+      "link": "https://blog-genius.vercel.app/"
+    },
+    {
+      "name": "Your Daily Way",
+      "description": "High-performance blog with Astro and React. Focus on performance optimization and SEO. Markdown integration for easy content creation.",
+      "technologies": ["Astro", "React", "TypeScript", "SEO", "Markdown"],
+      "link": "http://yourdailyway.com/"
+    }
+  ],
+  "interests": [
+    "Open Source Contributions",
+    "AI and Machine Learning",
+    "Software Architecture",
+    "Problem Solving and Logical Thinking"
+  ],
+  "softSkills": [
+    "Problem Solving",
+    "Logical Thinking",
+    "Teamwork",
+    "Communication"
+  ]
+}
