@@ -5,7 +5,6 @@ import { DocumentInterface } from "@langchain/core/documents";
 import { Redis } from "@upstash/redis";
 import { JSONLoader } from "langchain/document_loaders/fs/json";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
-import { getEmbeddingsCollection, getVectorStore } from "../src/lib/supabase";
 
 async function generateEmbeddings() {
   // Clear Redis cache
